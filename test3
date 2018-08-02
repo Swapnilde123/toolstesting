@@ -1,1 +1,4 @@
 third file
+[‎8/‎2/‎2018 2:20 PM] Vikas Mittal: 
+git config --global http.proxy http://genproxy.corp.amdocs.com:8080 
+git config --global https.proxy http://genproxy.corp.amdocs.com:8080 
